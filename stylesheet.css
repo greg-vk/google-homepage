@@ -28,3 +28,20 @@ header {
 .header-right {
     float: right;
 }
+
+.main {
+  text-align: center;
+  padding: 25%;
+}
+
+.logo-search {
+  display: block;
+}
+
+.contact-submit {
+  margin-right: 20px;
+}
+
+.searchbar {
+  width: 75%;
+}
